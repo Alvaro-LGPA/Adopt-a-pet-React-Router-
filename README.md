@@ -1,3 +1,6 @@
+
+[Solution video](https://www.youtube.com/watch?v=jxyeh-BrUuI)
+
 ### Installing React Router and Initial Set Up
 1. Let’s start by installing react-router-dom so that we can use React Router components in the project. Use the command below:
 ```
